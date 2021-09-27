@@ -6,6 +6,8 @@ namespace MascotaFeliz.App.Dominio
      /// Modela una Persona en general en el sistema 
      /// </summary>  
     public class Mascota
+
+    // Esta vaina esta mal, pero ya la vamos a arreglar :v
     {
         public int Id { get; set; }
         public float Temperatura {get;set;}
