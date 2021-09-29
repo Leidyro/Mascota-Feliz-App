@@ -8,6 +8,7 @@ namespace MascotaFeliz.App.Dominio
     public class Mascota
 
     // Esta vaina esta mal, pero ya la vamos a arreglar :v
+    // Se supone que deberia estar conectado :v
     {
         public int Id { get; set; }
         public float Temperatura {get;set;}
